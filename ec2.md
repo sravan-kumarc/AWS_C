@@ -8,10 +8,15 @@ Here’s a **step-by-step guide to launch an AWS EC2 instance** (virtual server)
 
 **2. Navigate to EC2 Dashboard**
 - From the AWS Management Console, search for “EC2” and select **EC2** under Services.
+- <img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/3fb204db-3eb9-4265-be74-93d4a4bcabbb" />
 - You’ll reach the EC2 Dashboard.
+- <img width="961" height="546" alt="image" src="https://github.com/user-attachments/assets/009a3aa3-9200-4906-a188-b0a0b17fb5d0" />
+
 
 **3. Launch an Instance**
 - Click the orange **Launch Instance** button.
+- <img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/6cf52283-d2cd-44ae-a65d-86c50eddcd4d" />
+
 
 **4. Name and Choose Amazon Machine Image (AMI)**
 - Enter a name for your instance (e.g., MyFirstServer).
@@ -60,5 +65,5 @@ Here’s a **step-by-step guide to launch an AWS EC2 instance** (virtual server)
 - Never share your private key (.pem) file.
 
 Want screenshots or need guidance on a specific OS (Linux/Windows)? Let me know!
-<img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/3fb204db-3eb9-4265-be74-93d4a4bcabbb" />
+
 
